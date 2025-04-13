@@ -2,20 +2,20 @@ const palavras = [
     {
       nome: "orion",
       dica: "Estudante de arte, divertido e preucupado com sua familia",
-      imagem: "Orion.png",
+      imagem: "./imagens/Orion.png",
       personagem: "orion"
     },
     {
       nome: "sky",
       dica: "Estudante de dança, orgulhoso e arrogante, sempre ta pronto para acabar com quem bate de frente com ele.",
-      imagem: "sky.png",
+      imagem: "./imagens/Sky.png",
       personagem: "sky"
     },
     {
       nome: "stormy",
       dica: "Pediatra, irmão de Sky proteje quem e importante para ele.",
-      imagem: "Sky.Png",
-      personagem: "storn"
+      imagem: "./imagens/Sky.png",
+      personagem: "stormy"
     },
     {
       nome: "bellatrix",
@@ -26,25 +26,25 @@ const palavras = [
     {
       nome: "cloud",
       dica: "Estudante de Admistração, e uma pessoa quieta e arrogante, mas protejer com tudo quem ele ama.",
-      imagem: "Sky.png",
+      imagem: "./imagens/Sky.png",
       personagem: "cloud"
     },
     {
       nome: "lyra",
       dica: "Afrontosa nunca abaixa a cabeça protejer seus irmãos com todas as suas forças.",
-      imagem: "Orion.png",
+      imagem: "./imagens/Orion.png",
       personagem: "lyra"
     },
     {
       nome: "wind",
       dica: "Debochada e arrogante e ta sempre pronta para uma briga, ama uma barraco.",
-      imagem: "Sky.png",
+      imagem: "./imagens/Sky.png",
       personagem: "wind"
     },
     {
       nome: "rain",
       dica: "Barraqueiro e afrontoso, assim como sua irmã esta sempre pronto para uma bela discursão.",
-      imagem: "Orion.png",
+      imagem: "./imagens/Orion.png",
       personagem: "rain"
     }
   ];
